@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/S10ANDK/Managing-secrets-github/issues"
   },
-  "homepage": "https://github.com/S10ANDK/Managing-secrets-github#readme"
+  "homepage": "https://github.com/S10ANDK/Managing-secrets-github#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
