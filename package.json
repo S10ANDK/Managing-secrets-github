@@ -1,0 +1,20 @@
+{
+  "name": "managing-secrets-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S10ANDK/Managing-secrets-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S10ANDK/Managing-secrets-github/issues"
+  },
+  "homepage": "https://github.com/S10ANDK/Managing-secrets-github#readme"
+}
